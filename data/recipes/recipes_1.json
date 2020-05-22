@@ -63,10 +63,19 @@
         "description": "Saffron is sweet, astringent, and bitter to taste, heating with a sweet vipaka (post-digestive effect). It is balancing for all three doshas, easy to digest and helps food allergies. Medicinal Uses: Very effective for migraine-type headache. It can be effective in revitalizing the blood, circulation and the female reproductive system."
     },
     {
-        "name": "Sample",
-        "ingredients": [],
-        "steps": [],
-        "uses": [],
-        "description": "Sample"
+        "name": "Oats Apple Smoothie",
+        "ingredients": ["Oats","Apple","Milk","Dates","Cinnamon powder"],
+        "steps": ["1.Take Instant Oats of 3 cups",
+                  "2.Take one cup of apple(with the same cup which oats were measured)",
+                  "3.Take 2-3 Dates without seeds(If dates are not available then take Honey but not sugar)",
+                  "4.Pour 1/2 cup of milk and rest it for 5-7 minutes",
+                  "5.As the milk will get absorbed by oats add 1/2 cup milk",
+                  "6.Add Cinnamon powder 2 pinch.it is completely optional just for taste"
+                  "7.Blend it smooth depends the consistency required"
+                  "8.Ready to serve"],
+        "uses": ["Helps in weight loss",
+                 "Reduce Blood Sugar level and insulin response",
+                 "Increased growth of good bacteria in the digestive tract"],
+        "description": "Oats are rich in fiber helps in weight loss and mixing with fruits help in control blood sugar level and dates is replacement of sugar"
     }
 ]
