@@ -1,0 +1,72 @@
+[
+    {
+        "name": "KITCHARI",
+        "ingredients": [
+            "zucchini",
+            "asparagus",
+            "sweet potato",
+            "1/2 cup basmati rice",
+            "1 cup mung dal (split yellow)",
+            "/2 to 1 inch ginger root, chopped or grated",
+            "A bit of mineral salt (1/4 tsp. or so)",
+            "2 tsp. ghee",
+            "1/2 tsp. coriander powder",
+            "1/2 tsp. cumin powder",
+            "1/2 tsp. whole cumin seeds",
+            "1/2 tsp. mustard seeds",
+            "1/2 tsp. turmeric powder",
+            "1 pinch asafoetida (hing)",
+            "Handful of fresh cilantro leaves",
+            "1 and 1/2 cups assorted vegetables (optional)"
+        ],
+        "steps": [
+            "Carefully pick over rice and dal to remove any stones. Wash each separately in at least 2 changes of water. Add the 6 cups of water to the rice and dal and cook covered until it becomes soft, about 20 minutes.",
+            "While that is cooking, prepare any vegetables that suit your constitution. Cut them into smallish pieces. Add the vegetables to the cooked rice and dal mixture and cook 10 minutes longer.",
+            "In a separate saucepan, sauté the seeds in the ghee until they pop. Then add the other spices. Stir together to release the flavors. Stir the sautéed spices into the cooked dal, rice, and vegetable mixture. Add the mineral salt and chopped fresh cilantro and serve."
+        ],
+        "uses": [
+            "nourishing ",
+            " easy to digest"
+        ],
+        "description": "Kitchari means mixture, usually of two grains. This is one kitchari recipe that is particularly nourishing and easy to digest. Please note the options below for some alternatives and, after the recipe, read more about this ancient dish."
+    },
+    {
+        "name": "SAFFRON RICE",
+        "ingredients": [
+            "1 generous pinch saffron",
+            "1 Tbs water",
+            "1 1/2 cups basmati rice",
+            "3 Tbs ghee or unsalted butter",
+            "4 bay leaves",
+            "7 bits of cinnamon bark",
+            "(about 1 heaping teaspoon)",
+            "7 cloves, whole",
+            "1/2 tsp salt",
+            "7 cardamom pods, whole",
+            "4 cups hot water",
+        ],
+        "steps": [
+            "Soak the saffron in the 1 tablespoon water for at least 10 minutes.",
+            "Wash and rinse the rice twice. Drain.",
+            "Heat a pot over medium heat and add the ghee. Then add the bay leaves, cinnamon, cloves, salt, and cardamom and mix well for a minute. Turn the heat to low, add the rice and sauté in the spices for 2 minutes.",
+            "Pour in the hot water and the soaked saffron and bring to a gentle boil. Boil uncovered for 5 minutes. Then turn down the heat to medium and partially cover.",
+            "Continue to boil gently for another 5 minutes, stirring once or twice to keep from sticking.",
+            "Turn the heat to low, fully cover and simmer until tender, about 10 minutes."
+        ],
+        "uses": [
+            "food allergies",
+            "migraine-type headache",
+            "revitalizing the blood",
+            "female reproductive system.",
+            "circulation"
+        ],
+        "description": "Saffron is sweet, astringent, and bitter to taste, heating with a sweet vipaka (post-digestive effect). It is balancing for all three doshas, easy to digest and helps food allergies. Medicinal Uses: Very effective for migraine-type headache. It can be effective in revitalizing the blood, circulation and the female reproductive system."
+    },
+    {
+        "name": "Sample",
+        "ingredients": [],
+        "steps": [],
+        "uses": [],
+        "description": "Sample"
+    }
+]
