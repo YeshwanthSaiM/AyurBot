@@ -1,5 +1,6 @@
 # AyurBot
 Voice assistant for ayurvedic treatments and recipes.
+
 Overview
 Health is wealth . Being healthy is the foremost important way to lead a happy life. Especially due to Covid-19 pandemic,Every one’s life is at risk. There was a lockdown, Markets were shut. Still Covid-19 is affecting the health of our near and dear. The only precaution we left with is to improve our immunity and health. Hence we provide you an innovative way to tackle this situation by introducing a new friend Ayur Bot. Ayur Bot is  Voice and chat based assistant that can guide for improving health naturally via ayurvedic recipes or treatments. 
 Goals
