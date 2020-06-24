@@ -1,0 +1,39 @@
+The following are the instructions for using Ayur Bot.
+Step 1: Log in to facebook and go to page yeshuthecool
+    link : https://www.facebook.com/yeshuthecool-113330170384509
+Step 2: Click on Send Message button
+Step 3: Start chatting with the Ayur Bot
+Step 4: Try asking for any remedy of a disease like
+    "Tell me how to treat low immunity"
+Step 5: Start your subcripton by saying.
+    "Start my subscription."
+
+
+Technical instructions:
+Facebook Messenger
+The following are the instructions to run the Ayur Bot server for Messenger.
+Step 1: Download the project from the git.
+    https://github.com/YeshwanthSaiM/AyurBot
+Step 2: Go to fb folder Set the python environment with all required libraries.
+    pip install -r requirements.txt
+Step 3: Go to the code folder. Run the python file "app.py" with terminal or any editor.
+    python app.py
+Step 4: A flask server is started with port 5000
+Step 5: Host the end point with ngrok or any other hosting server
+Step 6: That has to be updated in the messenger setting for facebook.
+    Message me in facebook and I will update the server.
+Step 7: Start using AyurBot from the facebook messenger.
+
+Website 
+The following are the instructions to run the Ayur Bot server from Website.
+Step 1: Download the project from the git.
+    https://github.com/YeshwanthSaiM/AyurBot
+Step 2: Set the python environment with all required libraries.
+    pip install -r requirements.txt
+Step 3: Go to the ibm folder. Run the python file "app.py" with terminal or any editor.
+    python app.py
+Step 4: A flask server is started with port 5500
+Step 5: Host the end point with ngrok or any other hosting server
+Step 6: You can directly paste the url in to your favourite browser.
+    http://localhost:5000/
+Step 7: Start using AyurBot from the webpage.
