@@ -1,0 +1,24 @@
+{
+    "dietPlan": [
+        {
+            "time": "06:00:00",
+            "instruction": "Wake up!"
+        },
+        {
+            "time": "07:00:00",
+            "instruction": "Lemon Water!"
+        },
+        {
+            "time": "09:00:00",
+            "instruction": "Break fast!"
+        },
+        {
+            "time": "12:00:00",
+            "instruction": "Time for lunch"
+        },
+        {
+            "time": "20:00:00",
+            "instruction": "Sleep for today"
+        }
+    ]
+}

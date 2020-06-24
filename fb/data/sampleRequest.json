@@ -1,0 +1,47 @@
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "113330170384509",
+            "time": 1592493797014,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "3272984956126200"
+                    },
+                    "recipient": {
+                        "id": "113330170384509"
+                    },
+                    "timestamp": 1592493796747,
+                    "message": {
+                        "mid": "m_uP-8vGq5d74FbZWFz9A5q3g4hNFV94UVwjWeHctyYTB1eDZlJEDMFO1Aub2IqQ9JAkyup-Jitjq3I-i1qCo-rQ",
+                        "text": "How to treat headache",
+                        "nlp": {
+                            "entities": {
+                                "intent": [
+                                    {
+                                        "confidence": 0.99810331244191,
+                                        "value": "getRemedy"
+                                    }
+                                ],
+                                "disease": [
+                                    {
+                                        "confidence": 0.88286486234477,
+                                        "value": "head\xa0ache",
+                                        "type": "value"
+                                    }
+                                ]
+                            },
+                            "detected_locales": [
+                                {
+                                    "locale": "en_XX",
+                                    "confidence": 1
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
