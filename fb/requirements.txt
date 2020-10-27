@@ -20,7 +20,7 @@ click==7.1.1
 cloudpickle==1.2.2
 colorama==0.4.3
 comtypes==1.1.7
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.14
